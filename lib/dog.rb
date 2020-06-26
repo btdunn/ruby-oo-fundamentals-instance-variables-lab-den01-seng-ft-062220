@@ -1,3 +1,3 @@
 class Dog name
-@name = name
+@the_dogs_name = name
 end
